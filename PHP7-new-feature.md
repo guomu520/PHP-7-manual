@@ -341,4 +341,4 @@ echo random_int(1, 50), PHP_EOL;
 
 ##了解更多
 
-* [从PHP5到PHP7](http://www.kkyfj.com/php/2016/01/02/from-PHP5-to-PHP7.html)
+* [从PHP5到PHP7](https://github.com/guomu520/PHP-7-manual/blob/master/From_PHP5_to_PHP7.md)
