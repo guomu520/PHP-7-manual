@@ -659,4 +659,4 @@ PHP7.x相较之前的版本的改变还是比较大的。个人看法是，如�
 
 ##了解更多
 
-* [PHP7的新特性](http://www.kkyfj.com/php/2016/01/21/PHP7-new-feature.html)
+* [PHP7的新特性](https://github.com/guomu520/PHP-7-manual/blob/master/From_PHP5_to_PHP7.md)
